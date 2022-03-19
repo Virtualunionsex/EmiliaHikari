@@ -4,7 +4,7 @@ A modular telegram Python bot running on python3 with an sqlalchemy database.
 Based on [marie bot](https://github.com/PaulSonOfLars/tgbot)
 
 ### [Read indonesia README](https://github.com/AyraHikari/EmiliaHikari/blob/master/README.id.md)
-
+https://heroku.com/deploy?template=https://github.com/Zaen67/EmiliaHikari
 **If you want to translate this bot**, [please go here](https://github.com/AyraHikari/EmiliaHikari/blob/master/TRANSLATION.md)
 
 Can be found as [Emilia](https://t.me/EmiliaHikariBot).
